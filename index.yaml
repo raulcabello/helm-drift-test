@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://github.com/raulcabello/helm-drift-test/releases/download/v0.1.0/test-0.1.0.tgz/test-0.1.0.tgz
+    - https://github.com/raulcabello/helm-drift-test/releases/download/v0.1.0/test-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-14T12:13:49.522544255+02:00"
